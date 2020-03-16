@@ -1,0 +1,10 @@
+D:\Skolo\C#\Basic\School Exercises\Class3\bin\Debug\netcoreapp2.1\Class3.deps.json
+D:\Skolo\C#\Basic\School Exercises\Class3\bin\Debug\netcoreapp2.1\Class3.runtimeconfig.json
+D:\Skolo\C#\Basic\School Exercises\Class3\bin\Debug\netcoreapp2.1\Class3.runtimeconfig.dev.json
+D:\Skolo\C#\Basic\School Exercises\Class3\bin\Debug\netcoreapp2.1\Class3.dll
+D:\Skolo\C#\Basic\School Exercises\Class3\bin\Debug\netcoreapp2.1\Class3.pdb
+D:\Skolo\C#\Basic\School Exercises\Class3\obj\Debug\netcoreapp2.1\Class3.csprojAssemblyReference.cache
+D:\Skolo\C#\Basic\School Exercises\Class3\obj\Debug\netcoreapp2.1\Class3.AssemblyInfoInputs.cache
+D:\Skolo\C#\Basic\School Exercises\Class3\obj\Debug\netcoreapp2.1\Class3.AssemblyInfo.cs
+D:\Skolo\C#\Basic\School Exercises\Class3\obj\Debug\netcoreapp2.1\Class3.dll
+D:\Skolo\C#\Basic\School Exercises\Class3\obj\Debug\netcoreapp2.1\Class3.pdb
